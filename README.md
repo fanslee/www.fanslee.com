@@ -1,2 +1,2 @@
-# www.fanslee.com
+#自用导航
 www.fanslee.com
